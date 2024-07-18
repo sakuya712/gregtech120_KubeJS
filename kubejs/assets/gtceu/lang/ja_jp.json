@@ -1,4 +1,6 @@
 {
-    "block.gtceu.planter":"自動栽培機", 
+    "block.gtceu.lv_planter":"基本型自動栽培機", 
+    "block.gtceu.mv_planter":"発展型自動栽培機", 
+    "block.gtceu.hv_planter":"発展型自動栽培機 II", 
     "gtceu.planter":"栽培機"
 }

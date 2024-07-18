@@ -1,4 +1,6 @@
 {
-    "block.gtceu.planter":"Planter", 
+    "block.gtceu.lv_planter":"Basic Planter", 
+    "block.gtceu.mv_planter":"Advanced Planter", 
+    "block.gtceu.hv_planter":"Advanced Planter II", 
     "gtceu.planter":"Planter"
 }
