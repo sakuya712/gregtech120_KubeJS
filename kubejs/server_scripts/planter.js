@@ -1,10 +1,10 @@
 ServerEvents.recipes(event => {
     const greg = event.recipes.gtceu;
-    // machine
+    // machines
     const tiers = [
-        ['lv', 'steel'],
-        ['mv', 'aluminium'],
-        ['hv', 'stainless_steel'],
+        ['lv', 'steel', 'tin'],
+        ['mv', 'aluminium', 'copper'],
+        ['hv', 'stainless_steel', 'gold'],
     ];
     tiers.forEach((tier) => {
         event.shaped(

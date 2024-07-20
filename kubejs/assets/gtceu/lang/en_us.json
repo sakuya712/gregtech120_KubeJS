@@ -2,5 +2,11 @@
     "block.gtceu.lv_planter":"Basic Planter", 
     "block.gtceu.mv_planter":"Advanced Planter", 
     "block.gtceu.hv_planter":"Advanced Planter II", 
-    "gtceu.planter":"Planter"
+    "gtceu.planter":"Planter",
+    "block.void_miner":"Void miner",
+    "gtceu.void_miner":"Void miner",
+    "block.gtceu.lv_scan_vein":"Basic Scan Vein", 
+    "block.gtceu.mv_scan_vein":"Advanced Scan Vein", 
+    "block.gtceu.hv_scan_vein":"Advanced Scan Vein II", 
+    "gtceu.scan_vein":"Scan Vein"
 }
