@@ -235,7 +235,8 @@ ServerEvents.recipes(event => {
         vein[1].forEach((ore) => {
             recipe.chancedOutput(`gtceu:${ore[0]}_ore`, ore[1]*1000, 500)
         });
-        recipe.duration(600)
+        recipe.inputFluids("gtceu:drilling_fluid 500")
+            .duration(600)
             .EUt(100);
     });
 })
